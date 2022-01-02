@@ -1,0 +1,5 @@
+{
+	"region": "eastasia",
+	"SUBSCRIPTION_KEY": "",
+	"description": "region+password的md5值为加密参数key!,使用AES/CBC/PKCS7模式得到SUBSCRIPTION_KEY"
+}
